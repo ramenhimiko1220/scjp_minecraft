@@ -1,0 +1,6 @@
+.card-img-top{
+    background-image: url(<url>);width: 400px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-size: cover;
+}
